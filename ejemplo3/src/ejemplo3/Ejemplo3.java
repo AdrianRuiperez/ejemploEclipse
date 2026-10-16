@@ -6,6 +6,6 @@ public class Ejemplo3 {
 		
 		System.out.println("Texto de prueba");
 		System.out.println("Texto de prueba 2");
+		System.out.println("No Texto de prueba 2");
 	}
-	
 }
